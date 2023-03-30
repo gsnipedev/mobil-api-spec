@@ -100,6 +100,8 @@ Request :
 ]
 ```
 
+## Ambil Data Mobil Berdasarkan ID
+
 Request :
 - Method : GET
 - Endpoint : `/cars/{id}`
